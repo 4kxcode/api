@@ -1,0 +1,23 @@
+{
+    "firstName": "Arjun",
+    "lastName": "Khatri",
+    "age": 24,
+    "address":
+    {
+        "streetaddress": "Ward No. 1 Nagarjun Municipality Namuna Tole",
+        "City": "Kathmandu",
+        "state": "Bagmati",
+        "postalcode": "44600"
+    },
+    "phonenumber":
+    [
+        {
+            "type": "home",
+            "number": "977 01-123-4567"
+        },
+        {
+            "type": "fax",
+            "number": "977 123-4567"
+        }
+    ]
+}
